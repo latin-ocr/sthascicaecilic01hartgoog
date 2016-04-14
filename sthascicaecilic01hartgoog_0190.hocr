@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sthascicaecilic01hartgoog/sthascicaecilic01hartgoog_0190.png"; bbox 0 0 3084 5442; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 370 1769 1105 2105">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 370 1769 1105 2105">
+     <span class='ocr_line' id='line_1_1' title="bbox 695 1769 788 1870; baseline -0.043 0"><span class='ocrx_word' id='word_1_1' title='bbox 695 1769 788 1870; x_wconf 83' lang='lat'><em>1111.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 370 2007 1105 2105; baseline 0 -1"><span class='ocrx_word' id='word_1_2' title='bbox 370 2007 567 2105; x_wconf 79' lang='lat' dir='ltr'><strong>THASGI</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 598 2007 814 2104; x_wconf 79' lang='lat' dir='ltr'><strong>GAEOILI</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 846 2007 1105 2104; x_wconf 80' lang='lat' dir='ltr'>UYPRIANI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 286 2265 1214 2380">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 286 2265 1214 2380">
+     <span class='ocr_line' id='line_1_3' title="bbox 286 2265 1214 2380; baseline 0 -4"><span class='ocrx_word' id='word_1_5' title='bbox 286 2267 376 2378; x_wconf 83' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 421 2265 736 2376; x_wconf 79' lang='lat' dir='ltr'><strong>HABITV</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 780 2265 1214 2380; x_wconf 82' lang='lat' dir='ltr'><strong>VIRGINVM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 640 2668 842 2678">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 640 2668 842 2678">
+     <span class='ocr_line' id='line_1_4' title="bbox 640 2668 842 2678; baseline 0 -2"><span class='ocrx_word' id='word_1_8' title='bbox 640 2668 842 2678; x_wconf 56' lang='grc' dir='ltr'>ψ...-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1546 5442">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1546 5442">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1546 5442; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1546 5442; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

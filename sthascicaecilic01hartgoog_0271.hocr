@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sthascicaecilic01hartgoog/sthascicaecilic01hartgoog_0271.png"; bbox 0 0 3084 5442; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 403 2359 1149 2692">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 403 2359 1149 2516">
+     <span class='ocr_line' id='line_1_1' title="bbox 406 2359 1149 2431; baseline 0.003 -17"><span class='ocrx_word' id='word_1_1' title='bbox 406 2359 430 2414; x_wconf 72' lang='lat' dir='ltr'><strong><em>S</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 451 2361 572 2416; x_wconf 82' lang='lat' dir='ltr'>:codex</span> <span class='ocrx_word' id='word_1_3' title='bbox 592 2359 795 2430; x_wconf 75' lang='lat' dir='ltr'>Seguierianus3</span> <span class='ocrx_word' id='word_1_4' title='bbox 813 2377 834 2416; x_wconf 73' lang='grc' dir='ltr'><strong>ο.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 849 2363 917 2416; x_wconf 78' lang='lat'><strong>1-4</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 928 2377 953 2431; x_wconf 88' lang='lat' dir='ltr'><strong>p.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 966 2361 1026 2426; x_wconf 78' lang='lat'><strong>269,</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1037 2364 1056 2418; x_wconf 76' lang='lat'><strong>5</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1066 2361 1149 2416; x_wconf 79' lang='lat' dir='ltr'>deest.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 403 2443 832 2516; baseline 0.005 -18"><span class='ocrx_word' id='word_1_10' title='bbox 403 2443 438 2498; x_wconf 87' lang='lat' dir='ltr'><em>W</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 451 2469 484 2494; x_wconf 87' lang='lat'>=</span> <span class='ocrx_word' id='word_1_12' title='bbox 498 2445 574 2500; x_wconf 78' lang='lat' dir='ltr'><strong>codex</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 586 2445 832 2516; x_wconf 75' lang='lat' dir='ltr'><strong>Wiirzeburgensis.</strong></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 410 2529 783 2602">
+     <span class='ocr_line' id='line_1_3' title="bbox 410 2529 783 2602; baseline 0.011 -18"><span class='ocrx_word' id='word_1_14' title='bbox 410 2529 434 2584; x_wconf 84' lang='lat' dir='ltr'><strong><em>G</em></strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 451 2533 574 2586; x_wconf 80' lang='lat' dir='ltr'>:codex</span> <span class='ocrx_word' id='word_1_16' title='bbox 593 2533 783 2602; x_wconf 75' lang='lat' dir='ltr'><strong>sangallensis.</strong></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 408 2617 749 2692">
+     <span class='ocr_line' id='line_1_4' title="bbox 408 2617 749 2692; baseline 0 -20"><span class='ocrx_word' id='word_1_17' title='bbox 408 2617 434 2672; x_wconf 84' lang='lat' dir='ltr'><strong><em>V</em></strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 448 2641 481 2668; x_wconf 85' lang='lat'>=</span> <span class='ocrx_word' id='word_1_19' title='bbox 494 2617 571 2674; x_wconf 85' lang='lat' dir='ltr'>codex</span> <span class='ocrx_word' id='word_1_20' title='bbox 583 2617 749 2692; x_wconf 66' lang='lat' dir='ltr'>Veronensis.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1546 5442">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1546 5442">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1546 5442; baseline 0 0"><span class='ocrx_word' id='word_1_21' title='bbox 0 0 1546 5442; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

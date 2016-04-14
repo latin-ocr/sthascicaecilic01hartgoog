@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sthascicaecilic01hartgoog_0270.png"; bbox 0 0 3084 5442; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 359 1963 1100 2294">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 359 1963 1100 2294">
+     <span class='ocr_line' id='line_1_1' title="bbox 685 1963 780 2060; baseline -0.021 0"><span class='ocrx_word' id='word_1_1' title='bbox 685 1963 780 2060; x_wconf 81' lang='lat' dir='ltr'><strong>VH.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 359 2195 1100 2294; baseline 0.003 -2"><span class='ocrx_word' id='word_1_2' title='bbox 359 2195 555 2294; x_wconf 77' lang='lat' dir='ltr'>THASOI</span> <span class='ocrx_word' id='word_1_3' title='bbox 589 2197 806 2294; x_wconf 78' lang='lat' dir='ltr'>CAECILI</span> <span class='ocrx_word' id='word_1_4' title='bbox 838 2199 1100 2294; x_wconf 75' lang='lat' dir='ltr'><strong>GYPRIANI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 279 2455 1204 2570">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 279 2455 1204 2570">
+     <span class='ocr_line' id='line_1_3' title="bbox 279 2455 1204 2570; baseline -0.009 0"><span class='ocrx_word' id='word_1_5' title='bbox 279 2457 362 2570; x_wconf 76' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 403 2455 770 2566; x_wconf 72' lang='lat' dir='ltr'><strong>DOMINIGA</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 814 2455 1204 2566; x_wconf 76' lang='lat' dir='ltr'>ORATIONE.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 630 2857 834 2867">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 630 2857 834 2867">
+     <span class='ocr_line' id='line_1_4' title="bbox 630 2857 834 2867; baseline 0 -3"><span class='ocrx_word' id='word_1_8' title='bbox 630 2857 834 2867; x_wconf 39' lang='grc' dir='ltr'>..ὴ-...μκή</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1546 5442">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1546 5442">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1546 5442; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1546 5442; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
